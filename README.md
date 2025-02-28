@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm O'Brian! 👋
 
-<!--
-**Griff-OB/Griff-OB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Based in Barbados.
+- 💻 Passionate about robotics, AI, and innovative projects.
+- 🎮 Enjoy creating projects like https://github.com/Griff-OB/Task-Manager
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+- 🚀 Exploring futuristic technology and mechatronics.
+- 📚 Developing solutions with a focus on AI 
+
+## Fun Facts
+- 🧠 Interested in philosophy and psychology.
+
+---
+Thanks for stopping by my GitHub profile! 🚀
